@@ -40,4 +40,12 @@ func main() {
 	inputNumbers := []int{10, 9, 2, 5, 3, 7, 101, 18}
 	result := lengthOfLIS(inputNumbers)
 	fmt.Println(result) // Output: 4
+
+	inputNumbers2 := []int{3, 10, 2, 1, 20}
+	result2 := lengthOfLIS(inputNumbers2)
+	fmt.Println(result2) // Output: 3
+
+	inputNumbers3 := []int{7, 7, 7, 7, 7, 7, 7}
+	result3 := lengthOfLIS(inputNumbers3)
+	fmt.Println(result3) // Output: 1
 }
