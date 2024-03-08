@@ -21,5 +21,5 @@ Instructions to Run the Code
 3. Run the program using the go run command.
 
 Testing Your Solution
-Test your solution with various strings to verify its correctness.
-Ensure that open brackets are closed by the same type of brackets and in the correct order.
+- Test your solution with various strings to verify its correctness.
+- Ensure that open brackets are closed by the same type of brackets and in the correct order.
