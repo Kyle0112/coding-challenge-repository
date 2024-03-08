@@ -16,8 +16,8 @@ The Palindrome Pairs problem requires finding all pairs of distinct indices in a
 The Valid Parentheses problem involves determining whether a given string containing only parentheses is valid according to certain rules.
 
 Implementation
--Each solution is implemented using efficient algorithms and data structures suitable for the problem.
--Additional test cases are included to verify the correctness and efficiency of the solutions.
+- Each solution is implemented using efficient algorithms and data structures suitable for the problem.
+- Additional test cases are included to verify the correctness and efficiency of the solutions.
 
 Instructions
 1. Cloning the Repository: Clone this repository to your local machine using Git.
@@ -27,5 +27,5 @@ Instructions
 5. Review the Output: The program will output the result of the solution, whether it's the length of the longest increasing subsequence, pairs of indices forming palindromes,or the validity of the parentheses string.
 
 Additional Notes
--Ensure that you have the necessary programming language installed on your system to run the solutions.
--Customize the solutions or add more test cases as needed to test different scenarios.
+- Ensure that you have the necessary programming language installed on your system to run the solutions.
+- Customize the solutions or add more test cases as needed to test different scenarios.
